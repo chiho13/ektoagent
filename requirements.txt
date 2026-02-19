@@ -1,0 +1,5 @@
+pipecat-ai[runner,soniox,openai,webrtc]
+python-dotenv
+loguru
+torch
+certifi
