@@ -1,4 +1,4 @@
-pipecat-ai[runner,soniox,openai,webrtc]
+pipecat-ai[runner,soniox,openai,inworld,webrtc]
 python-dotenv
 loguru
 torch
